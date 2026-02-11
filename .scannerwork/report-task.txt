@@ -1,0 +1,7 @@
+organization=anushkasinghal24
+projectKey=anushkasinghal24_AddressBookSystem
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.80152
+dashboardUrl=https://sonarcloud.io/dashboard?id=anushkasinghal24_AddressBookSystem
+ceTaskId=AZxL_iE5tSmbLzQPwZH3
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZxL_iE5tSmbLzQPwZH3
